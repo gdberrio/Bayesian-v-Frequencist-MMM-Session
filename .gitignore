@@ -1,0 +1,11 @@
+.DS_Store
+.claude/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+code/.demo_cache*/
+presentation/images/*.png
+content-drafts/
+session-plan/
+Research/
+presentation/
