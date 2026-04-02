@@ -7,7 +7,6 @@ The code is intentionally illustrative. These demos are communication aids, not 
 ## Structure
 
 - `code/`: 11 Python demos plus their generated figures
-- `session-plan/`: session outline and idea notes
 
 ## Quick Start
 
